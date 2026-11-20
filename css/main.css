@@ -53,9 +53,9 @@ h2 { font-size: 1.8rem; }
 
 .hero-photo {
   display: block;
-  width: clamp(180px, 30vw, 260px);
+  width: clamp(96px, 18vw, 140px);
   aspect-ratio: 1;
-  margin: 1.5rem auto;
+  margin: 1rem auto;
   border-radius: 50%;
   object-fit: cover;
 }
