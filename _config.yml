@@ -1,5 +1,5 @@
 # Site name shown in the page title and footer.
-name: Gilead Ski House
-# Set to /repo-name if hosted as a GitHub Pages project site, or leave empty for a custom domain.
-baseurl: ""
+name: Whistling Wanderer Cabin
+# GitHub Pages project-site path; leave empty for a custom domain.
+baseurl: /whistlingwanderer
 markdown: kramdown
